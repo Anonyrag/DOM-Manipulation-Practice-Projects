@@ -1,30 +1,3 @@
-Got it — this is a **DOM-focused practice repository**, sitting neatly between “JavaScript fundamentals” and “full projects”.
-Below is a **clean repo name suggestion** followed by a **GitHub-ready README.md** written to reflect exactly what these files teach.
-
----
-
-## 📦 Recommended Repository Name
-
-### ✅ Best fit (clear + professional)
-
-**`dom-manipulation-practice`**
-
-### Alternatives (same meaning, different tone)
-
-* `javascript-dom-exercises`
-* `learning-the-dom`
-* `frontend-dom-basics`
-
-👉 **Strong recommendation:**
-**`dom-manipulation-practice`**
-It’s instantly understandable to recruiters and learners alike.
-
----
-
-## 📘 README.md (Ready to Use)
-
----
-
 # **DOM Manipulation – Practice Projects**
 
 This repository contains a collection of **small JavaScript DOM projects** created while learning how to interact with the **Document Object Model (DOM)**.
