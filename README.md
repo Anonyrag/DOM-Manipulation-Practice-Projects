@@ -30,8 +30,8 @@ This repository bridges the gap between **pure JavaScript logic** and **interact
 
 **Files:**
 
-*`Subscribe-button-V1`
-*`Subscribe-button-V2`
+* `Subscribe-button-V1`
+* `Subscribe-button-V2`
 
 What it demonstrates:
 
@@ -51,8 +51,8 @@ Learning progression:
 
 **Files:**
 
-*`Amazon_Shipping_Calculator-V1`
-*`Amazon_Shipping_Calculator-V2`
+* `Amazon_Shipping_Calculator-V1`
+* `Amazon_Shipping_Calculator-V2`
 
 What it demonstrates:
 
@@ -73,8 +73,8 @@ Learning progression:
 
 **Files:**
 
-*`greet`
-*`greet-DOM-Exercise`
+* `greet`
+* `greet-DOM-Exercise`
 
 What they demonstrate:
 
