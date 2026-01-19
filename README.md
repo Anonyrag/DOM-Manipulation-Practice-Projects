@@ -30,9 +30,8 @@ This repository bridges the gap between **pure JavaScript logic** and **interact
 
 **Files:**
 
-*Subscribe-button-V1
-
-*Subscribe-button-V2
+*`Subscribe-button-V1`
+*`Subscribe-button-V2`
 
 What it demonstrates:
 
@@ -52,9 +51,8 @@ Learning progression:
 
 **Files:**
 
-*Amazon_Shipping_Calculator-V1
-
-*Amazon_Shipping_Calculator-V2
+*`Amazon_Shipping_Calculator-V1`
+*`Amazon_Shipping_Calculator-V2`
 
 What it demonstrates:
 
@@ -75,9 +73,8 @@ Learning progression:
 
 **Files:**
 
-*greet
-
-*greet-DOM-Exercise
+*`greet`
+*`greet-DOM-Exercise`
 
 What they demonstrate:
 
@@ -140,21 +137,3 @@ This repository reflects a **learning stage**, not production patterns.
 ## 📜 License
 
 Free to use for **learning, teaching, and experimentation**.
-
----
-
-### Final note
-
-This repo shows the moment where JavaScript stops being “code in isolation” and starts **talking to the browser**.
-
-You now have a very clean progression across your GitHub:
-
-* JS fundamentals → DOM practice → interactive projects → full apps
-
-If you want next, I can:
-
-* Help you **order and pin** these repos on GitHub
-* Write a **single learning-journey README**
-* Convert one of these DOM projects into **React state logic**
-
-You’re building the right way — from the inside out.
